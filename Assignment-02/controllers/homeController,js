@@ -1,0 +1,10 @@
+//Name: Mishaal Ghumman 
+//Student ID: 100831093 
+//Date: November 5th, 2024 
+const homeController = (req, res) => {
+    res.render('index')
+}
+
+export  {homeController}
+
+
